@@ -1,11 +1,13 @@
 # Environment
 .env
 .env.local
+.streamlit/secrets.toml
 
 # Python
 __pycache__/
 *.pyc
 .venv/
+.venv312/
 venv/
 
 # IDE
